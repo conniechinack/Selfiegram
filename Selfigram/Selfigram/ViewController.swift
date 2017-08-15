@@ -1,9 +1,9 @@
 //
 //  ViewController.swift
-//  Selfiegram
+//  Selfigram
 //
-//  Created by Connie Chinack on 2017-08-09.
-//  Copyright (c) 2017 Connie Chinack. All rights reserved.
+//  Created by Connie Chinack on 2017-08-14.
+//  Copyright © 2017 Connie Chinack. All rights reserved.
 //
 
 import UIKit

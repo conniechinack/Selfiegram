@@ -2,12 +2,12 @@
 //  SelfiegramTests.swift
 //  SelfiegramTests
 //
-//  Created by Connie Chinack on 2017-08-09.
-//  Copyright (c) 2017 Connie Chinack. All rights reserved.
+//  Created by Connie Chinack on 2017-08-14.
+//  Copyright © 2017 Connie Chinack. All rights reserved.
 //
 
-import UIKit
 import XCTest
+@testable import Selfiegram
 
 class SelfiegramTests: XCTestCase {
     
@@ -23,12 +23,12 @@ class SelfiegramTests: XCTestCase {
     
     func testExample() {
         // This is an example of a functional test case.
-        XCTAssert(true, "Pass")
+        // Use XCTAssert and related functions to verify your tests produce the correct results.
     }
     
     func testPerformanceExample() {
         // This is an example of a performance test case.
-        self.measureBlock() {
+        self.measure {
             // Put the code you want to measure the time of here.
         }
     }
